@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|c:\\users\\user\\source\\repos\\mm(modbus monitor)\\mm(modbus monitor)\\form\\formmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|solutionrelative:mm(modbus monitor)\\form\\formmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|c:\\users\\user\\source\\repos\\mm(modbus monitor)\\mm(modbus monitor)\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|solutionrelative:mm(modbus monitor)\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|c:\\users\\user\\source\\repos\\mm(modbus monitor)\\mm(modbus monitor)\\form\\formmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|solutionrelative:mm(modbus monitor)\\form\\formmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|c:\\users\\user\\source\\repos\\mm(modbus monitor)\\mm(modbus monitor)\\form\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|solutionrelative:mm(modbus monitor)\\form\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|c:\\users\\user\\source\\repos\\mm(modbus monitor)\\mm(modbus monitor)\\form\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|solutionrelative:mm(modbus monitor)\\form\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|c:\\users\\user\\source\\repos\\mm(modbus monitor)\\mm(modbus monitor)\\form\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|solutionrelative:mm(modbus monitor)\\form\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|c:\\users\\user\\source\\repos\\mm(modbus monitor)\\mm(modbus monitor)\\services\\modbusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|solutionrelative:mm(modbus monitor)\\services\\modbusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|c:\\users\\user\\source\\repos\\mm(modbus monitor)\\mm(modbus monitor)\\controls\\batterypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|solutionrelative:mm(modbus monitor)\\controls\\batterypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|c:\\users\\user\\source\\repos\\mm(modbus monitor)\\mm(modbus monitor)\\controls\\batterypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|solutionrelative:mm(modbus monitor)\\controls\\batterypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|c:\\users\\user\\source\\repos\\mm(modbus monitor)\\mm(modbus monitor)\\models\\ibatterydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|solutionrelative:mm(modbus monitor)\\models\\ibatterydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|c:\\users\\user\\source\\repos\\mm(modbus monitor)\\mm(modbus monitor)\\controls\\batterypanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|solutionrelative:mm(modbus monitor)\\controls\\batterypanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|c:\\users\\user\\source\\repos\\mm(modbus monitor)\\mm(modbus monitor)\\models\\battery5s2p.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|solutionrelative:mm(modbus monitor)\\models\\battery5s2p.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|c:\\users\\user\\source\\repos\\mm(modbus monitor)\\mm(modbus monitor)\\models\\battery28s2p.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|solutionrelative:mm(modbus monitor)\\models\\battery28s2p.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|c:\\users\\user\\source\\repos\\mm(modbus monitor)\\mm(modbus monitor)\\models\\battery22s2p.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|solutionrelative:mm(modbus monitor)\\models\\battery22s2p.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|c:\\users\\user\\source\\repos\\mm(modbus monitor)\\mm(modbus monitor)\\models\\batterybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|solutionrelative:mm(modbus monitor)\\models\\batterybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|c:\\users\\user\\source\\repos\\mm(modbus monitor)\\mm(modbus monitor)\\controls\\batterypanel.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B40B2D2E-7372-4DF3-A2A7-4DB4D6A9D256}|MM(Modbus Monitor)\\MM(Modbus Monitor).csproj|solutionrelative:mm(modbus monitor)\\controls\\batterypanel.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Form\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "MM(Modbus Monitor)\\Form\\FormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Form\\FormMain.Designer.cs",
+              "RelativeToolTip": "MM(Modbus Monitor)\\Form\\FormMain.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAABAwCQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:55:44.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModbusService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Services\\ModbusService.cs",
+              "RelativeDocumentMoniker": "MM(Modbus Monitor)\\Services\\ModbusService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Services\\ModbusService.cs",
+              "RelativeToolTip": "MM(Modbus Monitor)\\Services\\ModbusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:55:06.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Form\\FormMonitor.cs",
+              "RelativeDocumentMoniker": "MM(Modbus Monitor)\\Form\\FormMonitor.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Form\\FormMonitor.cs",
+              "RelativeToolTip": "MM(Modbus Monitor)\\Form\\FormMonitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:53:06.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BatteryPanel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Controls\\BatteryPanel.cs",
+              "RelativeDocumentMoniker": "MM(Modbus Monitor)\\Controls\\BatteryPanel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Controls\\BatteryPanel.cs",
+              "RelativeToolTip": "MM(Modbus Monitor)\\Controls\\BatteryPanel.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA+wD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:50:01.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Utils\\Logger.cs",
+              "RelativeDocumentMoniker": "MM(Modbus Monitor)\\Utils\\Logger.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Utils\\Logger.cs",
+              "RelativeToolTip": "MM(Modbus Monitor)\\Utils\\Logger.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:38:33.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMain.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Form\\FormMain.cs",
+              "RelativeDocumentMoniker": "MM(Modbus Monitor)\\Form\\FormMain.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Form\\FormMain.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "MM(Modbus Monitor)\\Form\\FormMain.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:21:00.126Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMonitor.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Form\\FormMonitor.cs",
+              "RelativeDocumentMoniker": "MM(Modbus Monitor)\\Form\\FormMonitor.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Form\\FormMonitor.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "MM(Modbus Monitor)\\Form\\FormMonitor.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:35:09.997Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Form\\FormMain.cs",
+              "RelativeDocumentMoniker": "MM(Modbus Monitor)\\Form\\FormMain.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Form\\FormMain.cs",
+              "RelativeToolTip": "MM(Modbus Monitor)\\Form\\FormMain.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA/wD8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:55:41.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BatteryPanel.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Controls\\BatteryPanel.cs",
+              "RelativeDocumentMoniker": "MM(Modbus Monitor)\\Controls\\BatteryPanel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Controls\\BatteryPanel.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "MM(Modbus Monitor)\\Controls\\BatteryPanel.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:37:36.548Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBatteryData.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Models\\IBatteryData.cs",
+              "RelativeDocumentMoniker": "MM(Modbus Monitor)\\Models\\IBatteryData.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Models\\IBatteryData.cs",
+              "RelativeToolTip": "MM(Modbus Monitor)\\Models\\IBatteryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:50:24.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BatteryPanel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Controls\\BatteryPanel.Designer.cs",
+              "RelativeDocumentMoniker": "MM(Modbus Monitor)\\Controls\\BatteryPanel.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Controls\\BatteryPanel.Designer.cs",
+              "RelativeToolTip": "MM(Modbus Monitor)\\Controls\\BatteryPanel.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:50:29.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Battery5S2P.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Models\\Battery5S2P.cs",
+              "RelativeDocumentMoniker": "MM(Modbus Monitor)\\Models\\Battery5S2P.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Models\\Battery5S2P.cs",
+              "RelativeToolTip": "MM(Modbus Monitor)\\Models\\Battery5S2P.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:51:46.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Battery28S2P.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Models\\Battery28S2P.cs",
+              "RelativeDocumentMoniker": "MM(Modbus Monitor)\\Models\\Battery28S2P.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Models\\Battery28S2P.cs",
+              "RelativeToolTip": "MM(Modbus Monitor)\\Models\\Battery28S2P.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:52:10.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Battery22S2P.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Models\\Battery22S2P.cs",
+              "RelativeDocumentMoniker": "MM(Modbus Monitor)\\Models\\Battery22S2P.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Models\\Battery22S2P.cs",
+              "RelativeToolTip": "MM(Modbus Monitor)\\Models\\Battery22S2P.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:52:15.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BatteryBase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Models\\BatteryBase.cs",
+              "RelativeDocumentMoniker": "MM(Modbus Monitor)\\Models\\BatteryBase.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Models\\BatteryBase.cs",
+              "RelativeToolTip": "MM(Modbus Monitor)\\Models\\BatteryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:51:29.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BatteryPanel.resx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Controls\\BatteryPanel.resx",
+              "RelativeDocumentMoniker": "MM(Modbus Monitor)\\Controls\\BatteryPanel.resx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MM(Modbus Monitor)\\MM(Modbus Monitor)\\Controls\\BatteryPanel.resx",
+              "RelativeToolTip": "MM(Modbus Monitor)\\Controls\\BatteryPanel.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-27T05:50:28.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

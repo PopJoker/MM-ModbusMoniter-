@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\MM(Modbus Monitor)\MM(Modbus Monitor)\bin\Debug\MM(Modbus Monitor).exe.config
+C:\Users\User\source\repos\MM(Modbus Monitor)\MM(Modbus Monitor)\bin\Debug\MM(Modbus Monitor).exe
+C:\Users\User\source\repos\MM(Modbus Monitor)\MM(Modbus Monitor)\bin\Debug\MM(Modbus Monitor).pdb
+C:\Users\User\source\repos\MM(Modbus Monitor)\MM(Modbus Monitor)\obj\Debug\MM(Modbus Monitor).csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MM(Modbus Monitor)\MM(Modbus Monitor)\obj\Debug\MM_Modbus_Monitor_.Controls.BatteryPanel.resources
+C:\Users\User\source\repos\MM(Modbus Monitor)\MM(Modbus Monitor)\obj\Debug\MM_Modbus_Monitor_.FormMain.resources
+C:\Users\User\source\repos\MM(Modbus Monitor)\MM(Modbus Monitor)\obj\Debug\MM_Modbus_Monitor_.Forms.FormMonitor.resources
+C:\Users\User\source\repos\MM(Modbus Monitor)\MM(Modbus Monitor)\obj\Debug\MM_Modbus_Monitor_.Properties.Resources.resources
+C:\Users\User\source\repos\MM(Modbus Monitor)\MM(Modbus Monitor)\obj\Debug\MM(Modbus Monitor).csproj.GenerateResource.cache
+C:\Users\User\source\repos\MM(Modbus Monitor)\MM(Modbus Monitor)\obj\Debug\MM(Modbus Monitor).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MM(Modbus Monitor)\MM(Modbus Monitor)\obj\Debug\MM(Modbus Monitor).exe
+C:\Users\User\source\repos\MM(Modbus Monitor)\MM(Modbus Monitor)\obj\Debug\MM(Modbus Monitor).pdb
+C:\Users\User\source\repos\MM(Modbus Monitor)\MM(Modbus Monitor)\obj\Debug\MM(Modbus Monitor).exe.config
